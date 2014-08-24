@@ -1,0 +1,11 @@
+{
+  "name": "angular-d3-chart-sizer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jamm/angular-d3-chart-sizer",
+  "authors": [
+    "OZ <normandiggs@gmail.com>"
+  ],
+  "description": "Tool for sizing svg inside parent element",
+  "main": "d3chartsizer.js",
+  "license": "MIT"
+}
